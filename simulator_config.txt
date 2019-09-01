@@ -1,0 +1,14 @@
+gcodes/squirrel_export.gcode
+4
+5
+0.075 0.075 0.075 0.01
+
+#gcodes\watervase21_export.gcode
+#gcodes\Companion_Cube_export.gcode
+#gcodes\squirrel_export.gcode
+
+##############################
+name of the g code file (include path)
+number of sections skiped in plot, smaller number gives finner plot, min value=1
+number of points skiped in plot, smaller number gives finner plot, min value=1
+dx dy dz de (resolution in x, y, z direction and filament in mm)
